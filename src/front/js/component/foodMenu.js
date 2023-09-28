@@ -122,7 +122,7 @@ const CardItems = ({src}) => {
         <div className="rounded" style={{with: "100%"}}><img src={src} className="menu-img img-fluid rounded" alt="" /></div>
         <h4>Magnam Tiste</h4>
         <p className="ingredients">
-            Lorem, deren, trataro, filede, nerada
+            Lurem, deren, trataro, filede, nerada
         </p>
         <p className="price">
             $5.95
